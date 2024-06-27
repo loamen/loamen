@@ -2,8 +2,8 @@
 
 <table border="0" frame="void">
   <tr>  
-    <td><img src="https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true" alt="github stats" width="100%"></td>  
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loamen" alt="Top Langs" width="100%"></td>  
+    <td>[![Loamen's github stats](https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)</td>  
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loamen)](https://github.com/anuraghazra/github-readme-stats)</td>  
   </tr>  
   <tr>  
     <td><img src="./general.svg" alt="general" width="100%"></td>  
