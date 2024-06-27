@@ -3,7 +3,7 @@
 <table border="0" frame="void">
   <tr>  
     <td><img src="https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true" alt="github stats" width="100%"></td>  
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loamene" alt="Top Langs" width="100%"></td>  
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loamen" alt="Top Langs" width="100%"></td>  
   </tr>  
   <tr>  
     <td><img src="./general.svg" alt="general" width="100%"></td>  
@@ -11,15 +11,18 @@
   </tr>  
   <tr>  
     <td><img src="./stargazers.svg" alt="stargazers" width="100%"></td>  
-    <td><img src="./coding_habits_and_activity.svg" alt="coding_habits_and_activity" width="100%"></td>  
-  </tr>  
+    <td>
+    <img src="./achievements.svg" alt="achievements" width="100%">
+    <img src="./coding_habits_and_activity.svg" alt="coding_habits_and_activity" width="100%">
+    </td>  
+  </tr>
 
   <tr>  
-    <td><img src="./achievements.svg" alt="achievements" width="100%"></td>  
-    <td>内容8</td>  
+    <td></td>  
+    <td></td>  
   </tr>  
   <tr>  
-    <td colspan="2">这里是合并的单元格内容</td>  
+    <td colspan="2"></td>  
   </tr>
 </table>
 
