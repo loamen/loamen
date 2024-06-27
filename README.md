@@ -1,30 +1,11 @@
 ### Hi there 👋
 
-<table border="0" frame="void">
-  <tr>  
-    <td>[![Loamen's github stats](https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)</td>  
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loamen)](https://github.com/anuraghazra/github-readme-stats)</td>  
-  </tr>  
-  <tr>  
-    <td><img src="./general.svg" alt="general" width="100%"></td>  
-    <td> <img src="./languages_activity.svg" alt="languages_activity" width="100%"></td>  
-  </tr>  
-  <tr>  
-    <td><img src="./stargazers.svg" alt="stargazers" width="100%"></td>  
-    <td>
-    <img src="./achievements.svg" alt="achievements" width="100%">
-    <img src="./coding_habits_and_activity.svg" alt="coding_habits_and_activity" width="100%">
-    </td>  
-  </tr>
-
-  <tr>  
-    <td></td>  
-    <td></td>  
-  </tr>  
-  <tr>  
-    <td colspan="2"></td>  
-  </tr>
-</table>
+|    |    |
+| ------- | ------- |
+| [![Loamen's github stats](https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loamen)](https://github.com/anuraghazra/github-readme-stats)  |
+| ![general](./general.svg)  | ![languages_activity](./languages_activity.svg)  |
+|  ![stargazers](./stargazers.svg)  | ![achievements](./achievements.svg) |
+|   | ![oding_habits_and_activity](./coding_habits_and_activity.svg)  |
 
 <!--
 **loamen/loamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
