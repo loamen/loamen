@@ -4,8 +4,7 @@
 | ------- | ------- |
 | [![Loamen's github stats](https://github-readme-stats.vercel.app/api?username=loamen&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loamen)](https://github.com/anuraghazra/github-readme-stats)  |
 | ![general](./general.svg)  | ![languages_activity](./languages_activity.svg)  |
-|  ![stargazers](./stargazers.svg)  | ![achievements](./achievements.svg) |
-|   | ![oding_habits_and_activity](./coding_habits_and_activity.svg)  |
+|  ![stargazers](./stargazers.svg)  | ![achievements](./achievements.svg) ![oding_habits_and_activity](./coding_habits_and_activity.svg)|
 
 <!--
 **loamen/loamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
